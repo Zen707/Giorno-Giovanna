@@ -1,8 +1,5 @@
-<!DOCTYPE html>
-<html>
- <head>
-   <meta charset-"utf-8">
-   <title>Website</title>
+
+
   
 <style>
 
@@ -19,7 +16,7 @@ background-color: #ffcc68
   <p>
 <center>
    <h2><a href="https://www.youtube.com/watch?v=2MtOpB5LlUA">
-Jojo's Bizarre Adventures:Giorno Giovanna's Theme 'Golden Wing'></a> </h2>  
+Jojo's Bizarre Adventures:Giorno Giovanna's Theme 'Golden Wing'</a> </h2>  
 
 <table cellspacing="20">
 
@@ -48,15 +45,4 @@ Giorno is a natural-born Stand User wielding the life-giving Gold Experience in 
   </tr>
 
 
-</center> 
-  </p>
 
-
-
-
-
-
-
-
-
-</html>
